@@ -1,8 +1,8 @@
 body {
-	margin-top: 75px;
+	font-family: 'Vollkorn', serif;
 }
 
 .navbar-custom {
-	background-color: #E3FFFE !important;
+	background-color: #EDFFFE !important;
 	color: #BECCCB;
 }
